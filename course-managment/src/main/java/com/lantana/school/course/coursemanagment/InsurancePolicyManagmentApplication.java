@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class CourseManagmentApplication {
+public class InsurancePolicyManagmentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CourseManagmentApplication.class, args);
+		SpringApplication.run(InsurancePolicyManagmentApplication.class, args);
 	}
 	
 }
